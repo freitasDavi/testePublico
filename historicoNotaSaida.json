@@ -1,0 +1,28 @@
+[
+    {
+        "IDSEQUENCIA": 1,
+        "IDCODNOTA": 1,
+        "IDEMPRESA": 1,
+        "IDCLIFORNEC": 1,
+        "CLIFORNEC_NOME": "TIMACO",
+        "IDSERIETITULO": 2,
+        "DESCRICA_SERIE": "SERIE DESCRITA",
+        "IDNOTASAIDA": 1,
+        "OPERACAO": 1,
+        "USUARIO": "DAVI",
+        "DATA_HORA": "2023-05-05"
+    },
+    {
+        "IDSEQUENCIA": 2,
+        "IDCODNOTA": 3,
+        "IDEMPRESA": 2,
+        "IDCLIFORNEC": 2,
+        "CLIFORNEC_NOME": "CRICIÚMA E.C",
+        "IDSERIETITULO": 2,
+        "DESCRICA_SERIE": "SERIE DESCRITIVA",
+        "IDNOTASAIDA": 1,
+        "OPERACAO": 1,
+        "USUARIO": "DAVI",
+        "DATA_HORA": "2023-05-05"
+    }
+]
